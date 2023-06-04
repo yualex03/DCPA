@@ -1,0 +1,13 @@
+:root {
+    --font_roboto: 'Roboto', sans-serif;
+    --font_lato: 'Lato', sans-serif;
+    --font_raleway: 'Raleway', sans-serif;
+    --font_inter: 'Inter', sans-serif;
+
+    --color-blue_active: #0059C8;
+    --color-blue_disable: #518cd5;
+    --color-blue_title: #004AAB;
+    --color-blue_border: #006EFF;
+    --color-blue_button: #0059C8;
+    --color-white_main: #FFFFFF;
+}
